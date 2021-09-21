@@ -1,18 +1,5 @@
-# rampage_navigation_controller
-This is the repo for the Rampage bluetooth handlebar navigation controller
+# Navigation Controller
+This is my adjusted version of the Rampage bluetooth handlebar navigation controller made by Eugene Beetge from Rally Rampage. 
+General difference with original project is to adapt it to my preference of using Drive Mode Dashboard v2 Map application, Waze and Spotify/Media as profiles.
 
-WELCOME TO THE RALLY RAMPAGE NAVIGATION CONTROLLER
-
-This project is for developing a bluetooth handlebar controller to use for navigation whilst riding motorbike.
-
-The project was started by Eugene Beetge from Rally Rampage. 
-
-The original designs and coding are all from Eugene.
-
-For more informaiton please visit: 
-
-https://www.rallyrampage.com
-
-or 
-
-email at info@rallyrampage.com
+This project is made using a adafruit 32u4 board
